@@ -1,4 +1,4 @@
-module github.com/mattermost/mattermost-plugin-starter-template
+module github.com/wagner-petrosoft/mattermost-openproject-plugin
 
 go 1.19
 
